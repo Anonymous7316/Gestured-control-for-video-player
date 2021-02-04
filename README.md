@@ -11,7 +11,8 @@
  
 ## **Abstract:**
 
-[![Blueprint](Bluepirnt.png)](https://github.com/Anonymous7316/Gestured-control-for-video-player/blob/main/Images/Blueprint.png)
+- Blueprint
+<p align="center"><img src="https://github.com/Anonymous7316/Gestured-control-for-video-player/blob/main/Images/Blueprint.png" width="800"></p>
   
 ## **Python Packages used in Project:**  
 
@@ -20,6 +21,16 @@
   
 **2. Numpy:**
   *Numerical Python or NumPy is being used for manipulation of data and computations on that data.*
+  
+## **Working:**
+- Edge Detection
+   <p align="center"><img src="https://github.com/Anonymous7316/Gestured-control-for-video-player/blob/main/Images/EdgeDetection.png" width="350"></p>
+
+- Image Thresholding
+<p align="center"><img src="https://github.com/Anonymous7316/Gestured-control-for-video-player/blob/main/Images/Threshold.png" width="350"></p>
+
+- Workflow
+ <p align="center"><img src="https://github.com/Anonymous7316/Gestured-control-for-video-player/blob/main/Images/Workflow.png" width="800" height="400"></p>
   
 ## **Refrences:**  
   - [https://www.python.org](https://www.python.org)
