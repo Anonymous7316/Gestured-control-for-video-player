@@ -11,7 +11,7 @@
  
 ## **Abstract:**
 
-<image>
+[![Blueprint](Bluepirnt.png)](https://github.com/Anonymous7316/Gestured-control-for-video-player/blob/main/Images/Blueprint.png)
   
 ## **Python Packages used in Project:**  
 
